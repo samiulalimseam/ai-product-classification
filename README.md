@@ -114,6 +114,6 @@ Contributions are welcome! Please open an issue or submit a pull request.
 This project is licensed under the [MIT License](LICENSE).
 ---
 
-**Owner**: [Your Name](https://github.com/yourusername)
-**Website**: [www.yourwebsite.com](https://www.yourwebsite.com)
-**Contact**: your@email.com
+**Owner**: [Samiul Alim](https://github.com/yourusername)
+**Website**: [www.samiul.dev](https://www.samiul.dev)
+**Contact**: samiulalimseam@gmail.com
